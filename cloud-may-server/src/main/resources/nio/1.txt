@@ -1,0 +1,5 @@
+HomeWork:
+
+ls -> list of files and directories
+cat fileName -> show file data on display cat 1.txt
+help -> list of available commands
