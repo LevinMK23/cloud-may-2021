@@ -1,0 +1,30 @@
+Stocks drifted sideways Tuesday, fluctuating between small gains and losses after new data on consumer confidence missed expectations.
+
+The S&P 500 hugged the flat line after the index closed out Monday's session higher by 1%. The Nasdaq and Dow also gave up earlier gains to trade little changed. Treasury yields added to losses, with the yield on the benchmark 10-year note hovering below 1.6%. Cryptocurrency prices steadied, and Bitcoin prices (BTC-USD) traded little changed to hold just below $38,000 during afternoon trading in New York.
+
+A new print on consumer confidence for April came in below expectations, with the Conference Board's headline sentiment index falling more than expected last month. At least some of the decline came as short-term income prospects were pressured by concerns over inflation, the Conference Board noted. And a separate report out Tuesday morning showed home prices surged by the most in 15 years in March, underscoring more key areas of the economy where supply and demand mismatches were pushing up prices.
+
+Still, some members of the Federal Open Market Committee suggested market participants may not need to worry that rising prices will catalyze a near-term move in monetary policy in the near-term. St. Louis Fed President James Bullard told Yahoo Finance on Monday that he believed increases in inflation would be "mostly temporary," and that the Fed was "not quite there yet" when it came to discussing tapering its asset purchases.
+
+And in separate comments, Kansas City Federal Reserve President Esther George said she did not want the Fed to be "overly reliant on historical relationships and dynamics in judging the outlook for inflation." The statement added to a litany of recent remarks from Fed officials downplaying the need for a near-term monetary policy move that might dampen the market rally.
+
+Though the past two days of trading offered an at least brief respite for investors after last week's equity selling, some strategists still struck a cautious tone on stocks, given the still-elevated concerns around inflation.
+
+"Right now everyone knows they should be worried about inflation and inflationary pressures and what that could mean in terms of a monetary response, or also companies' profitability," Shawn Cruz, senior market strategist at TD Ameritrade, told Yahoo Finance on Monday. "If they decide to keep those rising input costs on their balance sheet, then great, we're not going to see inflation rise at least on the consumer side, but we might see margins come in when [second-quarter] earnings come out."
+
+"I think the path of least resistance could still be higher, but I do expect this choppiness to remain somewhere around what we're seeing right now, just off of highs, at least until we get a little more clarity, maybe some indications that can help us inform expectations moving forward," he added.
+
+Others also noted that the latest technology-led advances might prove short-lived.
+
+"We don't think there's any problem with the fundamentals in the tech space ... but we think it's been an over-owned, overvalued part of the market, and it's just the wrong macro backdrop for this part of the market at this moment in time," Lori Calvasina, chief equity strategist for RBC Capital Markets, told Yahoo Finance. "And so bottom line we still think inflationary pressures are here, and tech is one of the biggest sources of funding for rotation back into reflationing plays, things like financials, energy and materials," Calvasina said. "And we don't think those inflation pressures are going to abate any time soon."
+
+—
+1:35 p.m. ET: The S&P 500 is 70% less labor intensive than it was in the 1980s, but some companies may still see margin pressure from wage increases: Bank of America
+
+With many companies now struggling to find qualified workers to meet rising demand, prospects of wage inflation have risen in recent months. However, more S&P 500 companies are able to derive more sales per worker than did blue-chip companies just several decades ago, meaning wage increases would not necessarily translate to lower profitability at many corporations, according to a new note from Bank of America.
+
+The S&P 500 "is 70% less labor intensive than in the '80s," Bank of America equity and quant strategist Savita Subramanian wrote in a note Tuesday. "If wage inflation increases from here, overall market margins have been immunized by efficiency/automation gains relative to prior decades. Since 1986: the number of employees per $1 million in sales declined from ~8 in 1986 to 2.3 today."
+
+She added that since 1986, stocks in the lowest quintile by labor intensity, or by ratio of employees to dollars of sales, have outperformed their most labor-intensive counterparts by 2.3 percentage points per year when controlling for sector. The margin of outperformance has been even wider for innovation-centric stocks in the information technology, healthcare and communication services sectors.
+
+"If labor inflation is likely to continue, watch margins for the most labor intensive stocks, and history would suggest investors avoid Consumer Discretionary when wages accelerate (and buy the sector when wages decelerate)," she added.
